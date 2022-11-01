@@ -1,0 +1,52 @@
+   0 whoami
+   1 cd /
+   2 ls -a
+   3 ls -al
+   4 ls -a
+   5 ls --help
+   6 cd --help
+   7 ls -l
+   8 ls /bin
+   9 echo hello
+  10 echo "hello"
+  11 *.tar.gz
+  12 echo "hello"
+  13 echo "\"hello"
+  14 echo '"hello"'
+  15 cd /opt
+  16 pwd
+  17 mkdir test
+  18 cd test
+  19 touch file.txt
+  20 mkdir /opt/test2 touch /opt/test2/file2.txt
+  21 mkdir -p /opt/test/user/student && touch /opt/test/user/student/file.txt
+  22 mkdir /tmp/task && touch /tmp/task/file.txt
+  23 ls /tmp/task
+  24 cd
+  25 pwd
+  26 tree /opt
+  27 cp /opt/test/file.txt /root/123.txt
+  28 сдуфк
+  29 clear
+  30 mv /opt/test/file.txt /root/file2.txt
+  31 ls /root
+  32 mv /root/file2.txt /root/newfile2.txt
+  33 ls /root/
+  34 tree /opt/
+  35 rmdir /opt/test
+  36 rmdir --help
+  37 rmdir -p /opt/test
+  38 rmdir -- /opt/test
+  39 rm -rf /opt/test
+  40 ls /opt/
+  41 clear 
+  42 histury
+  43 history
+  44 cat /etc/os-release 
+  45 cat /pro/cpuinfo
+  46 cat /proc/cpuinfo 
+  47 date 
+  48 сфд 2023
+  49 cal 2023
+  50 history
+  51 history > history.txt
